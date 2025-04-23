@@ -57,4 +57,12 @@ ul{
 li{
     font-family: 'Kanit';
     font-weight: 400;
+    font-size: 20px;
+    cursor: pointer;
+    width: 95%;
+    padding-left: 20px;
+}
+li:hover{
+    background-color: gray;
+    color: white;
 }
